@@ -1,0 +1,2 @@
+Part 1: total fuel 3422661
+Part 2: total fuel 5131103
