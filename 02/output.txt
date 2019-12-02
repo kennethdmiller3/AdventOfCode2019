@@ -1,0 +1,2 @@
+Part 1: result 4138687
+Part 2: noun=66 verb=35 result=6635
