@@ -1,0 +1,2 @@
+Part 1: pos=217,0 dist=217
+Part 1: pos=340,0 delay=3454
