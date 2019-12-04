@@ -1,5 +1,4 @@
-// 03.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// https://adventofcode.com/2019/day/3
 
 #include <iostream>
 #include <sstream>
