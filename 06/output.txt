@@ -1,0 +1,2 @@
+Part 1: count=144909
+Part 2: distance=259
