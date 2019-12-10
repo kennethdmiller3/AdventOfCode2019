@@ -1,0 +1,2 @@
+Part 1: location=19,14 count=274
+Part 2: result=305
