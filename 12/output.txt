@@ -1,0 +1,2 @@
+Part1: energy=12082
+Hello World!
