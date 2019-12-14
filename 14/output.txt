@@ -1,0 +1,2 @@
+Part 1: ore 579797
+Part 2: fuel 2521844
